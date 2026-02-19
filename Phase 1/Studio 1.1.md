@@ -1,17 +1,10 @@
-Visual Prompt Studio Phase 1.1
+# Studio 1.1 – Visual Prompt Studio
 
-Prompt:
-Create a large realistic mural painted in acrylic on a brick building in South Dallas. The mural is a protest about unfair housing and high rent. Show a cracked apartment building with broken windows and dark shadows. Add bold graffiti-style text that says “HOUSING IS A RIGHT.” The style should be representational and serious.
+## Generated Image
+![Generated Image](Studio_1.1_generated.png)
 
-Vocabulary Breakdown:
+## Prompt and Reflection
+![Prompt and Reflection](Studio_1.1_reflection_prompt.jpeg)
 
-Medium: Acrylic mural painted on a brick wall.
-
-Subject Matter: A damaged apartment building and the words “HOUSING IS A RIGHT.”
-
-Meaning: The artwork communicates that safe and affordable housing should be available to everyone.
-
-Representational Art: Art that clearly shows real objects so viewers easily understand the message.
-
-Reflection:
-Handwritten reflection included as reflection_studio1.1.jpg
+## Vocabulary Breakdown
+![Vocabulary Breakdown](Studio_1.1_Vocabulary.jpeg)
