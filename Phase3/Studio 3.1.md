@@ -1,6 +1,8 @@
 **Prompt 1**
 Theme: Art as religious instruction
+
 Period: Middle Ages (Romanesque)
+
 Inspired by: Church of Sainte-Foy
 
 Prompt:
@@ -9,7 +11,9 @@ This was made to teach religion to people who cannot read. People can understand
 
 **Prompt 2**
 Theme: Humanism
+
 Period: Renaissance
+
 Inspired by: School of Athens
 
 Prompt:
